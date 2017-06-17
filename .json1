@@ -1,0 +1,25 @@
+{
+"status":"true",
+"data":
+[
+{
+"title":"اعلان تاني",
+"image":"uploads\/thumbimages\/2044289760_1497321046.png",
+"url":"http:\/\/souq-aljwalat.com\/index.php?viewid=36",
+"username":"ph",
+"catename":"الجوالات الجديدة",
+"cityname":"جدة",
+"timeago":"5 يوم "
+},
+{
+"title":"اعلان أول",
+"image":"uploads\/thumbimages\/948413996_1493751689.png",
+"url":"http:\/\/souq-aljwalat.com\/index.php?viewid=35",
+"username":"mohsn",
+"catename":"الجوالات الجديدة",
+"cityname":"جدة",
+"timeago":"2 شهر "
+}
+],
+"error":""
+}
