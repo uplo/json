@@ -1,0 +1,93 @@
+{
+    GetJobMatchesResult: {
+        Jobs: [
+            {
+                budget: null,
+                expirationDate: "9/29/2017",
+                jobDesc:
+                    "At Provident Advisor Group, we understand the challenges faced by Small and Medium-sized Business ..",
+                jobName: "Web Developer and Programmer",
+                jobType: "Hourly",
+                jobUrl: "jobs/web-developer-and-programmer/1388669",
+                skills:
+                    "phpmysqlwordpressdesignmarketingweb designweb developmentbusiness consultingcloud computingrelationship management"
+            },
+            {
+                budget: "Under $250",
+                expirationDate: "9/29/2017",
+                jobDesc:
+                    "I have about 50 slogans i need created into word art for tshirt.  Each one needs to be a unique de..",
+                jobName: "Word art created for Tshirts",
+                jobType: "Fixed Price",
+                jobUrl: "jobs/word-art-created-for-tshirts/1388640",
+                skills: "adobe photoshopt-shirt design"
+            },
+            {
+                budget: "Under $250",
+                expirationDate: "9/28/2017",
+                jobDesc:
+                    "I have 10 -12 pictures that I need to create a scketch from each.  trying to create a business car..",
+                jobName: "photoshop  creating a sketch from a pict",
+                jobType: "Fixed Price",
+                jobUrl: "jobs/photoshop-creating-a-sketch-from-a-pict/1388347",
+                skills: "adobe photoshopbusiness card design"
+            },
+            {
+                budget: "$500-$1k",
+                expirationDate: "9/27/2017",
+                jobDesc:
+                    "Homefield Advantage is seeking a part time Graphic Designer to join our team! We are in need of a ..",
+                jobName: "IN NEED OF A GRAPHIC DESIGNER",
+                jobType: "Fixed Price",
+                jobUrl: "jobs/in-need-of-a-graphic-designer/1388070",
+                skills:
+                    "designer 2000designeditinggraphic designweb designweb developmentcreative"
+            },
+            {
+                budget: "Not Sure",
+                expirationDate: "9/27/2017",
+                jobDesc:
+                    "I&#39;m building a team and I&#39;m looking to hire a Content Marketing Manager. Marketing offers ..",
+                jobName: "Content Marketing Manager",
+                jobType: "Fixed Price",
+                jobUrl: "jobs/content-marketing-manager/1387992",
+                skills:
+                    "adobe photoshopcontent marketingcontent writingdesignemailgraphic designinbound marketingweb designcreative"
+            },
+            {
+                budget: null,
+                expirationDate: "9/25/2017",
+                jobDesc:
+                    "Graphic Artist:-Portfolio required.-Formal Graphic Arts training required.-Adobe photoshop, indesi..",
+                jobName: "Graphics &  Design for digital signage",
+                jobType: "Hourly",
+                jobUrl: "jobs/graphics-design-for-digital-signage/1387805",
+                skills:
+                    "adobe photoshopadobe after effectsadobe indesigngraphic designillustrationadobe"
+            },
+            {
+                budget: "$500-$1k",
+                expirationDate: "10/2/2017",
+                jobDesc:
+                    "DALIX Is looking for a seasoned Catalog Specialist to Create print ready formats of its new 2018 C..",
+                jobName: "Catalog / Print Ready Flash PDF Creation",
+                jobType: "Fixed Price",
+                jobUrl: "jobs/catalog-print-ready-flash-pdf-creation/1387802",
+                skills:
+                    "flashdesignlayout designillustratorcreativeadobephotoshopcatalog design"
+            },
+            {
+                budget: "$2.5k-$5k",
+                expirationDate: "9/16/2017",
+                jobDesc:
+                    "Need app software to identify modifications to photos including filter used, body reshaping or smo..",
+                jobName: "Software to identify photo modifications",
+                jobType: "Fixed Price",
+                jobUrl: "jobs/software-to-identify-photo-modifications/1387734",
+                skills:
+                    "adobe photoshopiphone app developmentpattern recognitionphoto editingsoftware developmentapp designapp development"
+            }
+        ],
+        jobsCount: 39
+    }
+}
