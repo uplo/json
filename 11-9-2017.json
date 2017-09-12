@@ -10,7 +10,7 @@
                 jobType: "Hourly",
                 jobUrl: "jobs/web-developer-and-programmer/1388669",
                 skills:
-                    "phpmysqlwordpressdesignmarketingweb designweb developmentbusiness consultingcloud computingrelationship management"
+                    "phpmysqlwordpressdesignmarketingweb; designweb developmentbusiness; consultingcloud; computingrelationship; management"
             },
             {
                 budget: "Under $250",
@@ -20,7 +20,7 @@
                 jobName: "Word art created for Tshirts",
                 jobType: "Fixed Price",
                 jobUrl: "jobs/word-art-created-for-tshirts/1388640",
-                skills: "adobe photoshopt-shirt design"
+                skills: "adobe photoshopt-shirt; design"
             },
             {
                 budget: "Under $250",
@@ -30,7 +30,7 @@
                 jobName: "photoshop  creating a sketch from a pict",
                 jobType: "Fixed Price",
                 jobUrl: "jobs/photoshop-creating-a-sketch-from-a-pict/1388347",
-                skills: "adobe photoshopbusiness card design"
+                skills: "adobe photoshopbusiness; card design"
             },
             {
                 budget: "$500-$1k",
@@ -41,7 +41,7 @@
                 jobType: "Fixed Price",
                 jobUrl: "jobs/in-need-of-a-graphic-designer/1388070",
                 skills:
-                    "designer 2000designeditinggraphic designweb designweb developmentcreative"
+                    "designer; 2000designeditinggraphic; designweb; designweb developmentcreative"
             },
             {
                 budget: "Not Sure",
@@ -52,7 +52,7 @@
                 jobType: "Fixed Price",
                 jobUrl: "jobs/content-marketing-manager/1387992",
                 skills:
-                    "adobe photoshopcontent marketingcontent writingdesignemailgraphic designinbound marketingweb designcreative"
+                    "adobe photoshopcontent; marketingcontent; writingdesignemailgraphic; designinbound; marketingweb; designcreative"
             },
             {
                 budget: null,
@@ -63,7 +63,7 @@
                 jobType: "Hourly",
                 jobUrl: "jobs/graphics-design-for-digital-signage/1387805",
                 skills:
-                    "adobe photoshopadobe after effectsadobe indesigngraphic designillustrationadobe"
+                    "adobe photoshopadobe; after effectsadobe; indesigngraphic; designillustrationadobe"
             },
             {
                 budget: "$500-$1k",
@@ -74,7 +74,7 @@
                 jobType: "Fixed Price",
                 jobUrl: "jobs/catalog-print-ready-flash-pdf-creation/1387802",
                 skills:
-                    "flashdesignlayout designillustratorcreativeadobephotoshopcatalog design"
+                    "flashdesignlayout; designillustratorcreative; adobephotoshopcatalog design"
             },
             {
                 budget: "$2.5k-$5k",
@@ -85,7 +85,7 @@
                 jobType: "Fixed Price",
                 jobUrl: "jobs/software-to-identify-photo-modifications/1387734",
                 skills:
-                    "adobe photoshopiphone app developmentpattern recognitionphoto editingsoftware developmentapp designapp development"
+                    "adobe photoshopiphone; app developmentpattern; recognitionphoto editingsoftware; developmentapp designapp; development"
             }
         ],
         jobsCount: 39
